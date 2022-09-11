@@ -1,0 +1,27 @@
+#gameContainer{
+    text-align: center;
+}
+#gameBoard{
+    border: 3px solid;
+}
+#scoreText{
+    font-family: "consolas", monospace;
+    font-size: 100px;
+    color:darkblue;
+}
+#resetBtn{
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+    color:rgb(47, 5, 144);
+}
+
+body {
+    background-image:  url('img/landscape-background.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
